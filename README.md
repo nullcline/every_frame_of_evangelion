@@ -1,5 +1,7 @@
 
 # Every Evangelion Frame In Order
+https://www.facebook.com/everyngeframe/
+![image](https://user-images.githubusercontent.com/48143035/194218907-1d4e5b83-5c73-4968-8109-db8bb7b89c07.png)
 
 (note: this was the first python project i ever did please do not judge me)
 
